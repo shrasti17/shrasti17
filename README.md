@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shrasti17
 - 👀 I’m interested in learning and exploring things.
 - 🌱 I’m currently learning python.
+- HTML, CSS, JS
 
 
 <!---
